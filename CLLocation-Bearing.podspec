@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'CLLocation+Bearing'
+  s.name         = 'CLLocation-Bearing'
   s.version      = '1.0'
   s.summary      = 'CLLocation category to add bearing to your locations!'
   s.homepage     = 'https://github.com/goodappworks/CLLocation-Bearing'
